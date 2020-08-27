@@ -64,6 +64,7 @@ ccc.sys.miui.com
 cdn.ad.xiaomi.com
 cdn.fds-ssl.api.xiaomi.com
 clock.ad.xiaomi.com
+cn.app.chat.xiaomi.net
 cnc.fe01.lg.xiaomi.com
 config.kuyun.com
 connect.rom.miui.com
@@ -99,6 +100,7 @@ flash.sec.intl.miui.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr.app.chat.global.xiaomi.net
 from.pandora.xiaomi.com
+g.galleryapi.micloud.xiaomi.net
 gallery.cdn.pandora.xiaomi.com
 gallery.pandora.xiaomi.com
 game.xiaomi.com
@@ -114,6 +116,7 @@ heyue.xiaomi.com
 hk.mibi.xiaomi.com
 huodong.xiaomi.com
 huosai.xiaomi.com
+i.mi.com
 i.xiaomi.com
 idmb.app.chat.global.xiaomi.net
 igame.xiaomi.com
@@ -171,6 +174,7 @@ resolver.msg.xiaomi.net
 ruac.account.xiaomi.com
 sa.api.intl.miui.com
 sandbox.xmpush.xiaomi.com
+sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 sec-cdn.static.xiaomi.net
@@ -205,6 +209,7 @@ test.new.api.ad.xiaomi.com
 test.xiaomi.com
 test.zeus.ad.xiaomi.com
 thm.market.intl.miui.com
+thm.market.intl.xiaomi.com
 thm.market.xiaomi.com
 tracking.intl.miui.com
 tracking.miui.com
@@ -223,6 +228,7 @@ wallpaper.cdn.pandora.xiaomi.com
 wallpaper.pandora.xiaomi.com
 wap.game.xiaomi.com
 weather.pandora.xiaomi.com
+weatherapi.market.xiaomi.com
 weatherapi.market.xiaomi.coma.stat.xiaomi.com
 wifiapi.micloud.xiaomi.net
 www.xiaomi.com
