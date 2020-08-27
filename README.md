@@ -28,6 +28,7 @@ Automatically generated list using [Sublert](https://github.com/yassineaboukir/s
 ## Authors
 
 * **unknownFalleN** - *Initial work* - [unknownFalleN](https://github.com/unknownFalleN)
+* **jasirfayas**
 
 ## License
 
