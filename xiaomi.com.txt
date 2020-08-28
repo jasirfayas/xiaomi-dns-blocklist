@@ -240,6 +240,7 @@ images.cdn.pt.xiaomi.com
 ime.api.xiaomi.com
 img.cdn.mvideo.xiaomi.com
 imp.xmpush.xiaomi.com
+in.statusapi.micloud.xiaomi.net
 in.tv.global.mi.com
 in-unlock.pt.intl.xiaomi.com
 in.o2o.api.xiaomi.com
