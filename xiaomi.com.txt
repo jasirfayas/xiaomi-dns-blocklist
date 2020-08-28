@@ -125,6 +125,7 @@ cdns.fds.api.xiaomi.com
 center.hybrid.xiaomi.com
 cloudml.api.xiaomi.com
 cms.nfcpay.xiaomi.com
+cn.app.chat.xiaomi.net
 cn.register.xmpush.xiaomi.com
 cnbj2.vision.api.xiaomi.com
 contents.api.xiaomi.com
@@ -186,6 +187,7 @@ files.ai.xiaomi.com
 fr.api.xmpush.global.xiaomi.com
 fr.feedback.xmpush.global.xiaomi.com
 fr.register.xmpush.global.xiaomi.com
+g.galleryapi.micloud.xiaomi.net
 g.o2o.hybrid.xiaomi.com
 g.pandora.xiaomi.com
 ga.mo.intl.xiaomi.com
@@ -226,6 +228,7 @@ i.api.xmpush.global.xiaomi.com
 i.c3.api.xmpush.xiaomi.com
 i.fr.api.xmpush.global.xiaomi.com
 i.lg.api.xmpush.xiaomi.com
+i.mi.com
 i.xiaomi.com
 iauth.pt.xiaomi.com
 ics-oms.ai.xiaomi.com
@@ -237,6 +240,7 @@ images.cdn.pt.xiaomi.com
 ime.api.xiaomi.com
 img.cdn.mvideo.xiaomi.com
 imp.xmpush.xiaomi.com
+in.tv.global.mi.com
 in-unlock.pt.intl.xiaomi.com
 in.o2o.api.xiaomi.com
 in.stagingcredit.pt.xiaomi.com
@@ -338,6 +342,7 @@ sandbox.mibi.api.xiaomi.com
 sandbox.mibi.xiaomi.com
 sandbox.xmpush.xiaomi.com
 sd.lp.account.xiaomi.com
+sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 sds.api.xiaomi.com
