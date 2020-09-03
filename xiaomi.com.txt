@@ -128,6 +128,8 @@ cms.nfcpay.xiaomi.com
 cn.app.chat.xiaomi.net
 cn.register.xmpush.xiaomi.com
 cnbj2.vision.api.xiaomi.com
+connect.intl.rom.miui.com
+connect.rom.miui.com
 contents.api.xiaomi.com
 contract.shopapi.xiaomi.com
 control.preload.xiaomi.com
