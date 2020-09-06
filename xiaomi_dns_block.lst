@@ -24,6 +24,7 @@ api.device.xiaomi.net
 api.hybrid.xiaomi.com
 api.io.mi.com
 api.micloud.xiaomi.net
+api.miwifi.com
 api.miui.security.xiaomi.com
 api.sec.intl.miui.com
 api.sec.miui.com
@@ -85,6 +86,7 @@ de.pandora.xiaomi.com
 dev.api.zhuti.n.xiaomi.com
 dev.market.n.xiaomi.com
 dev.staging.api.developer.n.xiaomi.com
+dlg.io.mi.com
 drm.market.xiaomi.com
 dvb.pandora.xiaomi.com
 e.ad.xiaomi.com
@@ -161,6 +163,9 @@ o2o.api.xiaomi.com
 onebox.api.zhuti.n.xiaomi.com
 onebox.market.n.xiaomi.com
 order.music.xiaomi.com
+ot.io.mi.com
+ots.io.mi.com
+ott.io.mi.com
 pdc.micloud.xiaomi.net
 phonecallapi.micloud.xiaomi.net
 pmall.migc.xiaomi.com
