@@ -183,6 +183,7 @@ feedback.pt.intl.xiaomi.com
 feedback.pt.rus.xiaomi.com
 feedback.xmpush.global.xiaomi.com
 feedback.xmpush.xiaomi.com
+fga0.market.xiaomi.com
 file.ai.xiaomi.com
 file.cdn.mvideo.xiaomi.com
 files.ai.xiaomi.com
